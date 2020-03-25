@@ -1,13 +1,28 @@
-
-
 #header {
-    width: 100%;
-    position: fixed;
-    background-color: white;
-    top:0;
-    z-index: 9999;
+  width: 100%;
+  position: fixed;
+  background-color: white;
+  top: 0;
+  z-index: 9999;
 }
 
 #main {
-    margin-top: 56px;
+  margin-top: 56px;
+}
+
+img {
+  max-width: 100%;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: var(--tomato-color);
+  border-color: var(--tomato-color);
+  box-shadow: none;
+}
+
+.btn-primary:hover {
+  color: #fff;
+  background-color: #fe4344;
+  border-color: #fe3638;
 }

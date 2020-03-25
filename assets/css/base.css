@@ -2,6 +2,7 @@
   --while-color: #fff;
   --black-color: #000;
   --primary-color: #72b9d0;
+  --tomato-color: #fe696a;
 }
 
 * {
@@ -12,9 +13,9 @@ html {
   box-sizing: border-box;
 }
 
-
 /* .trending-product {
     font-size: 1.75rem;
     font-weight: bold;
     color: #373f50;
 } */
+
